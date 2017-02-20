@@ -1,0 +1,71 @@
+1)      Write a program to find the closet element to a particular value in Binary Search Tree
+2)      What is the runtime complexity of your algorithm? How to determine run-time complexity of an algorithm.
+3)       How would you test a login page? Write test case to test a login page?
+4)      Program to Implement queue using two stacks
+5)      Write a program to Sort version numbers
+6)      Given two unsorted sets of integers, find the complement of the intersection of the two sets. What is the best-case runtime complexity of solving this problem?
+7)      How to implement Stack. Please provide arraylist implementation.
+8)      Write a program to find duplicate elements in an array.
+9)      Which web services is more Secured? When(in which type of applications) should you use SOAP and when should you use REST services?
+10)   You have an array (2,3,10,0,-4,9,8,-5,6,7,0,8,0,5,-7,6,4,-7,8,3,2,0,5,8). Write a program which sequence will give you the highest sum.
+11)   You have an array with elements 23, 12, 27, 15, 18, 7, 9, 10. Write a program to check which two elements’ addition would fetch you 32.
+Interviewer expect that candidate should first ask whether an array is sorted or not.
+According to interviewer answer yes or no. If no, then first tell them first I would sort that array in the program and then I would which two digits sum will give me the required number.
+12)   Implemenet isNumber function and write test case for that. You are not allowed to use any inbuild Java Method for example you can not use Integer.parseInt. You are allowed to use inbuild method to convert string to char array however.
+13)   Write a program to check if linked list is looped or not
+14)   Write a program to sort all the elements in array in descending order with sorting algorithm. Which sorting algorithm is fastest and why?
+15)   Write a program to separate the numeric characters from alphanumeric string.(Candidate should use Regular expression)
+16)   Write code to implement your own hashmap in your own version
+17)   Write a program to check whether string is palindrome or not.
+18)   Difference between final, finally and finalize.
+19)   Given two sorted lists of integers, write a function to merge them.
+20)   How good you are at debugging? Diff b/w run-time and complie-time error.
+21)   Write a program to generate 15 random integers between 0 and 10.(Candidate should use reverse function)
+22)   Explain All Sorting and searching Algorithms
+23)   Write sql query to get the items in the ascending order of their purchase date and grouped by the category (clothing, grocery and cosmetics).
+24)   Basic functions in sql queries.
+25)   What are prepared statements and callable statements.
+26)   What is the difference between function and procedure
+27)   Write a java program to count number of unique words separated by comma (,) and their occurrence from text file.
+28)   How to override equals method
+29)   How to implement and override hashcode
+30)   Difference between == and .equals() method. Why spring is immutable. Diff bw stringbuffer and stringbuilder
+31)   Write a java program for swapping of two numbers.
+32)   Given 2 Json objects how would you compare.
+33)   What is Fibonacci series. Please implement a function which returns the nth number in Fibonacci sequences with an input n.
+34)   Write a function which would print Fibonacci numbers up to given maximum
+35)   Write a program to reverse a String in Java.
+36)   Write a program to fetch unique elements from Array.
+37)   Write a program to reverse a number
+38)   Describe a difficult project you had. If you wrote tests for it, describe the tests. If you didn't write tests for it, looking back, what were the contact points at which you would write tests?
+39)   What is necessary for you to do when implementing an abstract class? Difference between interface and abstract class
+40)   Create a function that finds the sum of all the integers in a string (“abc1xy2mno78jh3khl21”). Continuous integers are considered one number.
+41)   How to create a DB connection, explain the steps to query a database.
+42)   Write a program to implement ArrayList
+43)   Do we need to implement any method of Serializable interface to make an object serializable?
+44)   Write a program to match the parenthesis () and return results
+()() - true
+((())) - true
+)( - false
+((()) - false
+()()) - false
+())( - false
+45)   Write a program to check if string is palindrome
+46)   Implement Interger.parseint in Java.
+47)   Write program to find number is power of 2 or not.
+48)   Print Pascal triangle
+49)   Delete occurrence of a substring from a string
+50)   Delete a node from linkedlist.
+51)   Check if given string is an anagram.
+52)   Write a program to find first and repeating chars in a string
+53)   Write a program to find deep clone of Binary Search tree
+54)   Write a program to find the parent of child node in BST
+55)   There are 2 linked list and find out in one list and scan which elemets in first list are duplicate in second list
+56)   How to convert string array to byte array
+57)   Implement queue using stack
+58)   REST API implementation in JAVA
+59)   Implement CRUD in node.js
+60)   Design flow to Compare two JsonObject and display in dropdown
+61)   MVC basic questions
+62)   Testing concepts
+ 
