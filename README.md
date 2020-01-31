@@ -1,2 +1,2 @@
-# Walmart_Interview
-Frequent Interview Questions from Walmart
+# W_Interview
+Frequent Interview Questions from W
